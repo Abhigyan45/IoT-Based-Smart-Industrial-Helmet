@@ -84,7 +84,7 @@ This project is an IoT-based Smart Industrial Helmet designed to monitor environ
 ## Prototyping and Testing
 
 The prototype was developed using Arduino Uno and NodeMCU ESP8266, integrating various sensors. The system was tested under different environmental conditions to ensure reliability. The fall detection feature was specifically tested by simulating falls to adjust sensitivity.
-![Testing](/img/underProcess%20Project%20pic.jpg)
+![Testing](underProcess%20Project%20pic.jpg)
 
 ## Cloud Platform or Server Configuration
 
@@ -92,10 +92,10 @@ ThingSpeak was chosen for its ease of integration with IoT projects and real-tim
 
 ### Sensors data on ThingSpeak
 
-![Humidity Sensor Data](/img/Screenshot%202024-05-26%20145535.png)
-![Gas Sensor Data](/img/Screenshot%202024-05-26%20145625.png)
-![Fall Sensor Data](/img/Screenshot%202024-05-26%20145649.png)
-![Temperature Sensor Data](/img/temp%20data.png)
+![Humidity Sensor Data](Screenshot%202024-05-26%20145535.png)
+![Gas Sensor Data](Screenshot%202024-05-26%20145625.png)
+![Fall Sensor Data](Screenshot%202024-05-26%20145649.png)
+![Temperature Sensor Data](temp%20data.png)
 
 ## Acknowledgments
 
