@@ -4,7 +4,7 @@
 
 This project is an IoT-based Smart Industrial Helmet designed to monitor environmental conditions and worker safety in industrial environments. The helmet is equipped with sensors to measure temperature, humidity, and gas levels, as well as a fall detection mechanism. It provides real-time data logging and alerting through a cloud platform, ensuring timely responses to hazardous conditions.
 
-![Project prototype](/img/project%20pic.jpg)
+![Project prototype](project%20pic.jpg)
 
 ## Features
 
@@ -27,7 +27,7 @@ This project is an IoT-based Smart Industrial Helmet designed to monitor environ
 
 ## Circuit Diagram
 
-![Circuit Diagram](/img/Schematic_smart-helmet_2024-05-26.png)
+![Circuit Diagram](Schematic_smart-helmet_2024-05-26.png)
 
 ## Prerequisites
 
